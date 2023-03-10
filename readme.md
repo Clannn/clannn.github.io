@@ -1,1 +1,3 @@
-This is my blogs
+# Blogs
+
+This is my blogs website.
